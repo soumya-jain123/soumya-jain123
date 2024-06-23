@@ -1,27 +1,83 @@
-# 💫 About Me:
-I'm currently working on some cool projects on python.<br>I'm currently persuading my B.Tech CSE degree From UPES - Dehradun.<br>Batch 2023 -27 .<br>Eager to watch Films and perform some experiments.<br>A coding enthusiast.<br>Have some good knowledge on C language and MySQl.
+![Profile Banner](https://play-lh.googleusercontent.com/-gQlRSL8c_ekb1c5b2ftwVQgtoNde70KI4CDO36gdxl9RDcjrg864_Wj4JvYjAVZU7PM=w240-h480-rw)
 
+# Soumya Jain
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/uCC7MMG2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@soumya112005) 
+### Student | Aspiring Software Developer
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=soumya-jain123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=soumya-jain123&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=soumya-jain123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=soumya-jain123&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+#### 🎓 Currently pursuing a Bachelor's Degree in Computer Science from UPES - University of Petroleum and Energy Studies
 
 ---
-[![](https://visitcount.itsvg.in/api?id=soumya-jain123&label=Views%20&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+*Placeholder for a coding GIF in high quality*
+
+---
+
+### About Me
+
+Hello! I'm Soumya Jain, a passionate student currently pursuing my Bachelor's in Computer Science. I have a solid foundation in:
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data_Structures-008000?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-008000?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+I love to code and build projects that solve real-world problems.
+
+---
+
+### Projects
+
+- **Popular Games Dataset Analysis (2023)**: Analyzed and visualized data on popular games up to 2023 using Python libraries like Pandas and Matplotlib.
+
+---
+
+### Connect with Me
+
+[![Instagram Badge](https://img.shields.io/badge/Instagram-__soumya._11_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__soumya._11_/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Soumya_Jain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-jain-a52a662a9/)
+
+---
+
+### Interests
+
+- **Coding**: I enjoy coding and developing new projects.
+- **Singing**: I love to sing in my free time.
+- **Sketching**: Sometimes, I like to sketch and bring my creativity to life on paper.
+- **Nature Photography**: As a nature lover, I enjoy capturing the beauty of nature through photography.
+
+---
+
+### Motivational Quotes
+
+1. > "The only way to do great work is to love what you do." - Steve Jobs
+2. > "Code is like humor. When you have to explain it, it’s bad." - Cory House
+3. > "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
+
+---
+
+### Memes
+
+1. ![Coding Meme 1](https://i.imgur.com/Od8Qs1G.jpg)
+   
+
+2. ![Coding Meme 2](https://i.imgur.com/VzQZwBu.jpg)
+   
+---
+
+### Contribution
+
+Feel free to check out my repositories and contribute to any of my projects. Contributions, issues, and feature requests are always welcome!
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=soumya-jain123&theme=radical)](https://git.io/streak-stats)
+
+---
+
+### Contact Me
+
+📧 Email: [soumya.11082005@gmail.com](mailto:soumya.11082005@gmail.com)
