@@ -32,7 +32,7 @@ Character_Name : "Soumya Jain"
 Class          : "Data Alchemist × Code Sorcerer"
 Affiliation    : "UPES — University of Petroleum & Energy Studies"
 Degree         : "B.Tech. Computer Science"
-Specialization : "Artificial Inelligence & Machine Learning"
+Specialization : "Artificial Intelligence & Machine Learning"
 Sworn_Oaths    : ["Six Eyes for Debugging", "Anti-Magic for Bad Code", "Plus Ultra for Deadlines"]
 Current_Status : "Grinding XP daily 🔥 | Open to side quests"
 ```
@@ -59,12 +59,12 @@ Hey, I'm **Soumya** 👋 — a Computer Science student who treats every bug lik
 
 <table>
   <tr>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api?user=soumya-jain123&show_icons=true&theme=dark&bg_color=0d1117&title_color=a855f7&icon_color=00e676&text_color=c9d1d9&border_color=30363d&hide_border=false" width="100%" alt="GitHub Stats"/></td>
-    <td width="50%"><img src="https://github-readme-streak-stats.herokuapp.com?user=soumya-jain123&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=A855F7&fire=FF0055&currStreakLabel=A855F7&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" width="100%" alt="Streak Stats"/></td>
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=soumya-jain123&show_icons=true&theme=dark&bg_color=0d1117&title_color=a855f7&icon_color=00e676&text_color=c9d1d9&border_color=30363d&hide_border=false" width="100%" alt="GitHub Stats"/></td>
+    <td width="50%"><img src="https://streak-stats.demolab.com?user=soumya-jain123&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=A855F7&fire=FF0055&currStreakLabel=A855F7&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" width="100%" alt="Streak Stats"/></td>
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?user=soumya-jain123&layout=compact&theme=dark&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumya-jain123&layout=compact&theme=dark&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="Top Languages"/>
 
 <br/>
 
